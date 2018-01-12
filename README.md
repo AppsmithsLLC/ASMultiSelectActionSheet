@@ -7,6 +7,9 @@ The control presents the user with one or more options.  Each option can be togg
 
 The dialog title, message and "OK" button titles are all customizable from the API. The control includes a very basic check-mark icon which can be changed to suit your project, but changing the icon programmatically is not currently exposed in the API.
 
+## Demonstration
+![Demo](https://github.com/AppsmithsLLC/ASMultiSelectActionSheet/blob/master/2018-01-12_13-14-03.gif "Demo")
+
 ## Requirements
 This control requires Xamarin.iOS and iOS 7.0+.
 
