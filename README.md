@@ -1,7 +1,7 @@
 # Project Name
 ASMultiSelectActionSheet
 ## Description
-ASMultiSelectionActionSheet is a control built for Xamarin.iOS.  The style resembles an UIActionSheet merged with an UIAlertSheet, while the functionality includes that of an Android MultiChoice AlertDialog.  
+ASMultiSelectionActionSheet is a control built for Xamarin.iOS.  The style roughly resembles an UIAlertController with cancel action, while the functionality includes that of an Android MultiChoice AlertDialog.  
 
 The control presents the user with one or more options.  Each option can be toggled on or off as the user requires.  If all options are toggled off, the action button is also disabled.  Optionally, the action button can be bound to any Action or ICommand object that you pass into the action sheet constructor.  Otherwise, you can respond to the action sheet manually from the delegate.
 
