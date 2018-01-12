@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{11C74BE3-CCBD-4BEF-BF35-900D6DB15C16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASMultiSelectActionSheet/ASMultiSelectActionSheet/MultiSelectActionSheet.cs">
+    <Files>
+      <File FileName="ASMultiSelectActionSheet-Samples/HomeViewController.cs" Line="39" Column="49" />
+      <File FileName="ASMultiSelectActionSheet/ASMultiSelectActionSheet/MultiSelectActionSheet.cs" Line="436" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ASMultiSelectActionSheet-Samples PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.f18d4e07a8713b5f9b70db35fbc82ce4b5b96ce0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ASMultiSelectActionSheet-Samples>
+</Properties>

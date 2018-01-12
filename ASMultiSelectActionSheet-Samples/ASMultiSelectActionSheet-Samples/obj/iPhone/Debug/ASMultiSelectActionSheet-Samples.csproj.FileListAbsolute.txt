@@ -1,0 +1,12 @@
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/bin/iPhone/Debug/ASMultiSelectActionSheet-Samples.exe
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/bin/iPhone/Debug/ASMultiSelectActionSheet-Samples.pdb
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/actool/_PartialAppManifest.items
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/actool/_BundleResourceWithLogicalName.items
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/optimized/
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/ASMultiSelectActionSheet-Samples.csproj.CoreCompileInputs.cache
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/ASMultiSelectActionSheet-Samples.exe
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/ASMultiSelectActionSheet-Samples.pdb
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/optimized/check-circle-Small.png
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/optimized/check-circle-Small@2x.png
+/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/optimized/check-circle-Small@3x.png

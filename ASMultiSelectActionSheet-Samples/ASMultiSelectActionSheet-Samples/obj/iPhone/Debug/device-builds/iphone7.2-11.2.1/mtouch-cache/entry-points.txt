@@ -1,0 +1,9 @@
+Function=xamarin_timezone_get_data
+	/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/willsmith/Projects/Appsmiths/ASMultiSelectActionSheet/ASMultiSelectActionSheet-Samples/ASMultiSelectActionSheet-Samples/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
